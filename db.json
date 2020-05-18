@@ -1,4 +1,18 @@
 {
-  "id": 1,
-  "denominazione": "zimox"
+  "posts": [
+    {
+      "id": 1,
+      "denominazione": "Zimox"
+    },
+    {
+      "id": 2,
+      "denominazione": "Oki"
+    },
+    {
+      "id": 3,
+      "denominazione": "Augmentin"
+    }
+  ]
+
+  
 }
